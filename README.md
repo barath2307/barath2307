@@ -1,7 +1,6 @@
-- 👋 Hi, I’m barath sanjay
-- 👀 I’m interested in data and business analytics,
-- 🌱 I’m currently learning bi tools,sql and python.
-- 📫 How to reach me
-      9789330277
-      barathsanjay2307@gmail.com
+👋 Hi, I'm Barathsanjay Velmurugan
+
+🎓 MSc Business Analytics Student | Aspiring Business Analyst
+📍 United Kingdom | Open to UK & Middle East Opportunities
+📊 Data • Analytics • Strategy • Decision Support
 
